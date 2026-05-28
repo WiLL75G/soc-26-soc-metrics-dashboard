@@ -1,6 +1,6 @@
 # SOC Key Performance Indicators (KPIs)
 ## Nexus Corp Security Operations Center
-## Analyst: James | Period: Q2 2026
+## Analyst: William | Period: Q2 2026
 
 ---
 
@@ -17,7 +17,7 @@ Without metrics you cannot answer:
 
 ---
 
-## Category 1 — Detection Metrics
+## Category 1 Detection Metrics
 
 ### KPI 1: Mean Time to Detect (MTTD)
 
@@ -116,7 +116,7 @@ Action: Tune top 4 rules to reduce FPs by 40%
 
 ---
 
-## Category 2 — Response Metrics
+## Category 2 Response Metrics
 
 ### KPI 5: Incidents by Severity
 
@@ -177,7 +177,7 @@ Nexus Corp vs industry:      97% faster detection ✅
 
 ---
 
-## Category 3 — Quality Metrics
+## Category 3 Quality Metrics
 
 ### KPI 8: SLA Compliance Rate
 
@@ -233,7 +233,7 @@ Recommendation:     On-call backup policy for peak days
 
 ---
 
-## SOC Dashboard Summary — Q2 2026
+## SOC Dashboard Summary Q2 2026
 
 | KPI | Target | Result | Status |
 |---|---|---|---|
